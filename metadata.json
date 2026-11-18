@@ -1,0 +1,6 @@
+{
+  "name": "UniVoice — Ý Kiến Sinh Viên",
+  "description": "Trang web do sinh viên xây dựng để chia sẻ đánh giá khách quan về môn học, giảng viên và trao đổi học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
